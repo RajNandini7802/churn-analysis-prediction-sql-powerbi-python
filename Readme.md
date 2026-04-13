@@ -123,7 +123,7 @@ Predicted churners: **381 customers**
 ---
 
 ## 📂 Project Structure
-
+```
 ├── Data/
 │ └── Raw & cleaned datasets
 │
@@ -149,7 +149,7 @@ Predicted churners: **381 customers**
 │ └── Final project report / documentation
 │
 └── README.md
-
+```
 ---
 
 ## 📈 Results & Conclusion
